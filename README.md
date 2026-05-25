@@ -1,5 +1,29 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building data analysis and bioinformatics projects, including RNA-seq gene expression analysis and interactive dashboards<br><br>👯 I’m looking to collaborate on<br>Data science, analytics, and healthcare-related projects that involve real world datasets<br><br>🤝 I’m looking for help with<br>Improving my machine learning skills and learning more about deploying data projects<br><br>🌱 I’m currently learning<br>Machine learning, data visualization, and advanced data analysis techniques using Python and R<br><br>💬 Ask me about<br>Data analysis, bioinformatics, Python, or anything related to getting started in tech
+
+🎓 Incoming M.S. Data Science student at Virginia Tech and VCU Bioinformatics graduate with a strong background in computational sciences, analytics, and programming
+
+🔭 Currently building data science projects focused on machine learning, data analysis, visualization, and real-world healthcare datasets
+
+🌱 Continuously learning advanced data science concepts including predictive modeling, statistical analysis, and data engineering tools using Python, R, and SQL
+
+👯 Interested in collaborating on data science, analytics, machine learning, and AI-driven projects
+
+💡 Passionate about transforming raw data into actionable insights through storytelling, visualization, and analytical problem-solving
+
+💬 Ask me about data science, Python, SQL, machine learning, bioinformatics, or analytics projects
+
+# 💻 Tech Stack:
+
+Python • R • SQL • Java • Git • GitHub • Matplotlib • Data Visualization • Machine Learning • Data Analytics • Bioinformatics
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=vmadagiri\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=vmadagiri\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmadagiri\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
 
 
 # 💻 Tech Stack:
