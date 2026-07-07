@@ -59,11 +59,9 @@ AWS • Data Engineering • ETL Pipelines • Advanced Machine Learning
 
 ## 📫 Connect With Me
 
-LinkedIn
+LinkedIn: www.linkedin.com/in/vaishnavi-madagiri-b0a08b265
 
-Portfolio
-
-Email
+Email: Vaishnavi.madagiri@gmail.com
 
 ---
 
