@@ -1,39 +1,76 @@
-# 💫 About Me:
+# Hi, I'm Vaishnavi 👋
 
-🎓 Incoming M.S. Data Science student at Virginia Tech and VCU Bioinformatics graduate with a strong background in computational sciences, analytics, and programming
+🎓 Incoming M.S. Data Science student at Virginia Tech  
+🎓 B.S. Bioinformatics Computational Sciences graduate from Virginia Commonwealth University
 
-🔭 Currently building data science projects focused on machine learning, data analysis, visualization, and real-world healthcare datasets
+I'm passionate about using data to solve real world problems through analytics, machine learning, and visualization. I enjoy building projects that transform raw data into meaningful insights, from exploratory analysis and predictive modeling to interactive dashboards.
 
-🌱 Continuously learning advanced data science concepts including predictive modeling, statistical analysis, and data engineering tools using Python, R, and SQL
+## 🚀 Currently Working On
 
-👯 Interested in collaborating on data science, analytics, machine learning, and AI-driven projects
+📊 End to end data analytics and machine learning projects
 
-💡 Passionate about transforming raw data into actionable insights through storytelling, visualization, and analytical problem-solving
+📈 Interactive dashboards using Python, SQL, and data visualization libraries
 
-💬 Ask me about data science, Python, SQL, machine learning, bioinformatics, or analytics projects
+🧬 Healthcare and bioinformatics data analysis
 
-# 💻 Tech Stack:
+☁️ Expanding my knowledge in AWS, data engineering, and production ready data science workflows
 
-Python • R • SQL • Java • Git • GitHub • Matplotlib • Data Visualization • Machine Learning • Data Analytics • Bioinformatics
+## ⭐ Featured Projects
 
-# 📊 GitHub Stats:
+🧬 RNAseq Gene Expression Analysis
 
-![](https://github-readme-stats.vercel.app/api?username=vmadagiri\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+Analyzed public gene expression datasets to identify differentially expressed genes through statistical analysis, visualization, and biological interpretation.
 
-![](https://nirzak-streak-stats.vercel.app/?user=vmadagiri\&theme=dark\&hide_border=false)
+💳 Customer Spending Analytics Dashboard
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmadagiri\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+Built an end to end analytics dashboard using Python and SQL to uncover customer purchasing patterns, business trends, and key performance metrics.
 
+More projects are continuously being added as I explore new technologies and real world datasets.
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vmadagiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vmadagiri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmadagiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Languages
+
+Python • SQL • R • Java
+
+### Data Science
+
+Pandas • NumPy • Scikit Learn • Matplotlib • Machine Learning • Statistical Analysis • Data Visualization • Exploratory Data Analysis
+
+### Databases
+
+PostgreSQL • SQL Server
+
+### Tools
+
+Git • GitHub • Jupyter Notebook • VS Code
+
+### Currently Learning
+
+AWS • Data Engineering • ETL Pipelines • Advanced Machine Learning
+
+## 🏆 Certifications
+
+☁️ AWS Certified Cloud Practitioner
+
+📊 IBM Data Science Professional Certificate
+
+🐍 PCPP Certified Professional Python Programmer
+
+## 📫 Connect With Me
+
+LinkedIn
+
+Portfolio
+
+Email
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vmadagiri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vmadagiri&theme=github_dark&show_icons=true&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=vmadagiri&theme=github_dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmadagiri&layout=compact&theme=github_dark&hide_border=true)
