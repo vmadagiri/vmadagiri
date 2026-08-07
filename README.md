@@ -1,6 +1,6 @@
 # Hi, I'm Vaishnavi 👋
 
-🎓 Incoming M.S. Data Science student at Virginia Tech  
+🎓  M.S. Data Science student at Virginia Tech  
 🎓 B.S. Bioinformatics Computational Sciences graduate from Virginia Commonwealth University
 
 I'm passionate about using data to solve real world problems through analytics, machine learning, and visualization. I enjoy building projects that transform raw data into meaningful insights, from exploratory analysis and predictive modeling to interactive dashboards.
