@@ -122,10 +122,3 @@ I'm always interested in connecting with people working in **data science, analy
 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-madagiri-b0a08b265)  
 📧 [Email](mailto:Vaishnavi.madagiri@gmail.com)
 
----
-
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=vmadagiri&theme=github_dark&show_icons=true&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmadagiri&layout=compact&theme=github_dark&hide_border=true)
