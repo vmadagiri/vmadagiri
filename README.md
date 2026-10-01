@@ -1,74 +1,127 @@
 # Hi, I'm Vaishnavi 👋
 
-🎓  M.S. Data Science student at Virginia Tech  
-🎓 B.S. Bioinformatics Computational Sciences graduate from Virginia Commonwealth University
+### Data Science M.S. Student @ Virginia Tech | Bioinformatics Graduate @ VCU
 
-I'm passionate about using data to solve real world problems through analytics, machine learning, and visualization. I enjoy building projects that transform raw data into meaningful insights, from exploratory analysis and predictive modeling to interactive dashboards.
+I'm a data science graduate student interested in turning messy data into useful analysis, models, dashboards, and data products.
 
-## 🚀 Currently Working On
+My projects span **data analytics, SQL, machine learning, bioinformatics, data engineering, and responsible AI**, with a focus on building complete workflows instead of just isolated notebooks.
 
-📊 End to end data analytics and machine learning projects
-
-📈 Interactive dashboards using Python, SQL, and data visualization libraries
-
-🧬 Healthcare and bioinformatics data analysis
-
-☁️ Expanding my knowledge in AWS, data engineering, and production ready data science workflows
-
-## ⭐ Featured Projects
-
-🧬 RNAseq Gene Expression Analysis
-
-Analyzed public gene expression datasets to identify differentially expressed genes through statistical analysis, visualization, and biological interpretation.
-
-💳 Customer Spending Analytics Dashboard
-
-Built an end to end analytics dashboard using Python and SQL to uncover customer purchasing patterns, business trends, and key performance metrics.
-
-More projects are continuously being added as I explore new technologies and real world datasets.
-
-## 💻 Tech Stack
-
-### Languages
-
-Python • SQL • R • Java
-
-### Data Science
-
-Pandas • NumPy • Scikit Learn • Matplotlib • Machine Learning • Statistical Analysis • Data Visualization • Exploratory Data Analysis
-
-### Databases
-
-PostgreSQL • SQL Server
-
-### Tools
-
-Git • GitHub • Jupyter Notebook • VS Code
-
-### Currently Learning
-
-AWS • Data Engineering • ETL Pipelines • Advanced Machine Learning
-
-## 🏆 Certifications
-
-☁️ AWS Certified Cloud Practitioner
-
-📊 IBM Data Science Professional Certificate
-
-🐍 PCPP Certified Professional Python Programmer
-
-## 📫 Connect With Me
-
-LinkedIn: www.linkedin.com/in/vaishnavi-madagiri-b0a08b265
-
-Email: Vaishnavi.madagiri@gmail.com
+I'm currently seeking **data science, data analytics, machine learning, and data engineering internship and early-career opportunities**.
 
 ---
 
-# 📊 GitHub Stats
+## ⭐ Featured Projects
+
+### 💳 [Customer Spending Analytics Dashboard](https://github.com/vmadagiri/customer-spending-analytics-dashboard)
+
+End-to-end retail analytics project built around **50,000+ synthetic transactions**.
+
+- Designed a normalized **PostgreSQL** database containing customers, products, stores, and transactions
+- Wrote **26 SQL business queries** using joins, CTEs, window functions, ranking, RFM segmentation, cohort analysis, and churn-risk logic
+- Built reusable Python data workflows with **pandas and SQLAlchemy**
+- Developed an interactive **Streamlit + Plotly** dashboard with KPI tracking, customer analysis, product performance, regional trends, and business recommendations
+- Created a Quarto portfolio case study to communicate technical work to non-technical stakeholders
+
+**Tech:** Python • SQL • PostgreSQL • pandas • SQLAlchemy • Streamlit • Plotly • Quarto
+
+---
+
+### 🤖 [Responsible AI Customer Support Platform](https://github.com/vmadagiri/customer-spending-analytics-ai-support)
+
+Built an LLM-powered customer support workflow focused on what happens **before and after the model call**, including privacy, evaluation, guardrails, and human oversight.
+
+- Integrated the **OpenAI Responses API** into a Python application
+- Built PII masking to reduce exposure of names, emails, phone numbers, and payment information before model calls
+- Added controls for unsupported actions, sensitive-information requests, and prompt-injection attempts
+- Created rule-based evaluation logic and investigated false positives in the evaluator itself
+- Evaluated real model outputs across representative support scenarios
+- Added automated testing with **pytest** for masking, prompting, evaluation, and integration logic
+- Designed human-review checkpoints for higher-risk cases
+
+**Tech:** Python • OpenAI API • pandas • Streamlit • pytest • LLM Evaluation • Responsible AI
+
+---
+
+### 🧬 [RNA-seq DCM Gene Expression Analysis](https://github.com/vmadagiri/RNAseq-DCM-GeneExpression-Analysis)
+
+Analyzed public RNA-seq data to investigate gene-expression differences in **dilated cardiomyopathy (DCM)** and explore sex-specific effects.
+
+- Analyzed the public **GSE141910** heart-tissue dataset with **305 samples**
+- Performed filtering, transformations, PCA, UMAP, and differential gene-expression analysis
+- Investigated expression differences between DCM and non-failing hearts
+- Compared male and female DCM samples
+- Performed **KEGG pathway enrichment analysis**
+- Created PCA, UMAP, volcano, distribution, and pathway visualizations
+- Documented results, biological interpretation, and analytical limitations
+
+**Tech:** R • GEOquery • limma • clusterProfiler • UMAP • data.table
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+**Python • SQL • R • Java**
+
+### Data Science & Machine Learning
+**pandas • NumPy • scikit-learn • Exploratory Data Analysis • Statistical Analysis • Machine Learning • Feature Engineering**
+
+### Data Visualization
+**Plotly • Matplotlib • Streamlit • Quarto**
+
+### Databases & Data Engineering
+**PostgreSQL • SQL Server • SQLAlchemy • ETL Pipelines • Relational Data Modeling**
+
+### AI & LLMs
+**OpenAI API • Prompt Design • LLM Evaluation • PII Masking • Guardrails • Human-in-the-Loop Workflows**
+
+### Tools & Cloud
+**Git • GitHub • Jupyter Notebook • VS Code • AWS**
+
+---
+
+## 🎓 Education
+
+### Virginia Tech
+**M.S. Data Science**
+
+### Virginia Commonwealth University
+**B.S. Bioinformatics, Computational Sciences**  
+Minor in Computer Science
+
+---
+
+## 🏆 Certifications
+
+☁️ **AWS Certified Cloud Practitioner**
+
+📊 **IBM Data Science Professional Certificate**
+
+🐍 **PCPP1 — Certified Professional in Python Programming**
+
+---
+
+## 🌱 What I'm Working On
+
+- Building portfolio projects with real-world public datasets
+- Strengthening machine learning model development and evaluation
+- Developing reproducible ETL and data-engineering workflows
+- Expanding my AWS and cloud data skills
+- Exploring responsible and production-minded applications of AI
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with people working in **data science, analytics, machine learning, AI, and data engineering**.
+
+💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-madagiri-b0a08b265)  
+📧 [Email](mailto:Vaishnavi.madagiri@gmail.com)
+
+---
+
+## 📊 GitHub Activity
 
 ![](https://github-readme-stats.vercel.app/api?username=vmadagiri&theme=github_dark&show_icons=true&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=vmadagiri&theme=github_dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmadagiri&layout=compact&theme=github_dark&hide_border=true)
