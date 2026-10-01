@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_banner.png" alt="Vaishnavi Madagiri | Data Science, Analytics, Machine Learning & Responsible AI" width="100%">
+</p>
+
 # Hi, I'm Vaishnavi 👋
 
 ### Data Science M.S. Student @ Virginia Tech | Bioinformatics Graduate @ VCU
