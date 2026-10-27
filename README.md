@@ -16,7 +16,7 @@ I'm currently seeking **data science, data analytics, machine learning, and data
 
 ## ⭐ Featured Projects
 
-### 💳 [Customer Spending Analytics Dashboard](https://github.com/vmadagiri/customer-spending-analytics-dashboard)
+### 💳 github.com/vmadagiri/shopwise
 
 End-to-end retail analytics project built around **50,000+ synthetic transactions**.
 
@@ -46,7 +46,7 @@ Built an LLM-powered customer support workflow focused on what happens **before 
 
 ---
 
-### 🧬 [RNA-seq DCM Gene Expression Analysis](https://github.com/vmadagiri/RNAseq-DCM-GeneExpression-Analysis)
+### 🧬 github.com/vmadagiri/CardioSeq
 
 Analyzed public RNA-seq data to investigate gene-expression differences in **dilated cardiomyopathy (DCM)** and explore sex-specific effects.
 
